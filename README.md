@@ -126,7 +126,7 @@ Use the following [Endpoint](https://rickandmortyapi.com/graphql)
 
 - **GitHub repository**: **alx-graphql-0x00**
 - **Directory**: **episode**
-- **File**: [episode/README.md](./episode/README.md), [episode/episode-page-1.graphql](./episode/episode-page-1.graphql), [episode/episode-page-1-output.json](./episode/episode-page-1-output.json), [episode/episode-page-2.graphql](./episode/episode-page-2.graphql), [episode/episode-page-2-output.json](./episode/episode-page-2-output.json), [episode/episode-page-3.graphql](./episode/episode-page-3.graphql), [episode/episode-page-3-output.json](./episode/episode-page-3-output.json), [episode/episode-page-4.graphql](./episode/episode-page-4.graphql), [episode/episode-page-4-output.json](./episode/episode-page-4-output.json)
+- **File**: [episode/README.md](./episode/README.md), [episode/episode-page-1.graphql](./episode/episode-page-1.graphql), [episode/characters-page-1-output.json,characters-page-2.graphql](./episode/characters-page-1-output.json,characters-page-2.graphql), [episode/characters-page-2-output.json](./episode/characters-page-2-output.json), [episode/characters-page-3.graphql](./episode/characters-page-3.graphql), [episode/characters-page-3-output.json](./episode/characters-page-3-output.json), [episode/characters-page-4.graphql](./episode/characters-page-4.graphql), [episode/characters-page-4-output.json](./episode/characters-page-4-output.json)
 
 ### 3. Application of GraphQL in React
 
