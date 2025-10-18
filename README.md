@@ -109,7 +109,7 @@ Use the following [Endpoint](https://rickandmortyapi.com/graphql)
 
 **GitHub repository**: **alx-graphql-0x00**
 **Directory**: **character**
-**File**: [character/README.md](./character/README.md), [character/character-id-1.graphql](./character/character-id-1.graphql), [character/character-id-1-output.json](./character/character-id-1-output.json), [character/character-id-2.graphql](./character/character-id-2.graphql), [character/character-id-2-output.json](./character/character-id-2-output.json), [character/character-id-3.graphql](./character/character-id-3.graphql), [character/character-id-3-output.json](./character/character-id-3-output.json), [character/character-id-4.graphql](./character/character-id-4.graphql), [character/character-id-4-output.json](./character/character-id-4-output.json)
+**File**: [character/README.md](./character/README.md), [character/characters-page-1.graphql](./character/characters-page-1.graphql), [character/characters-page-1-output.json](./character/characters-page-1-output.json), [character/characters-page-2.graphql](./character/characters-page-2.graphql), [character/characters-page-2-output.json](./character/characters-page-2-output.json), [character/characters-page-3.graphql](./character/characters-page-3.graphql), [character/characters-page-3-output.json](./character/characters-page-3-output.json), [character/characters-page-4.graphql](./character/characters-page-4.graphql), [character/characters-page-4-output.json](./character/characters-page-4-output.json)
 
 ## 2. Write a Query to Get a Specific Episode by ID
 
@@ -120,7 +120,7 @@ Use the following [Endpoint](https://rickandmortyapi.com/graphql)
 **Instructions**:
 
 - Write a GraphQL query using the `episode(id: ID!)` field to retrieve details of an episode.
-- Include the following fields in your query: `id`, `name`, ` air_date`, `episode`
+- Include the following fields in your query: `id`, `name`, `air_date`, `episode`
 
 **Repo**:
 
